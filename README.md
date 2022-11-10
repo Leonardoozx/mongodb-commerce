@@ -1,6 +1,6 @@
 # Boas-vindas ao repositório do projeto MongoDB Commerce!
 
-    <strong>🐳 Como usar o Docker para este projeto</strong>
+ <strong>🐳 Como usar o Docker para este projeto</strong>
 <br>
 
   - Para quem não possui o MongoDB instalado e está utilizando o docker, é necessário executar os testes localmente usando os seguintes passos:
@@ -13,7 +13,7 @@
   5. Por fim, execute o script de testes do projeto: `./scripts/evaluate.sh`.
   Se por algum motivo a execução do container for finalizada, basta iniciá-lo novamente com o comando `docker start nomeDoContainer` e seguir a partir do passo 3.
 
-    <strong>♻️ Restaurando o banco de dados `commerce`</strong>
+<strong>♻️ Restaurando o banco de dados `commerce`</strong>
 <br>
 
   > ⚠️ **Aviso:** Caso esteja utilizando Docker, certifique-se que tenha seguido os passos do tópico: "🐳 Como usar o Docker para este projeto", pois eles são determinantes para que siga as orientações abaixo.
